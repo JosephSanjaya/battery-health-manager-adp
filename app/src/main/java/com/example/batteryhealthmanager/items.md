@@ -1,0 +1,6 @@
+- scroll state issue
+- potentially due to modal sheet being inside the column
+- when to use which modifier, default or fresh instance
+- reason for more diff list and mutablelist as compared to java
+- diff bw by and equals usage in remember
+- check error Change parameter 'tempFieldValues' type of function 'HomeInput' to 'MutableState<List<String>>'
